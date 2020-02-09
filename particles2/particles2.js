@@ -1,5 +1,5 @@
 //Photo by Anastasia Vityukova on Unsplash
-//link: https://unsplash.com/@anastasiavitph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+
 
 var img;
 var cl = [];
